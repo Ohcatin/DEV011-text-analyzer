@@ -1,32 +1,32 @@
 
 header {
-    background-color: #e2b2a4;
+    background-color: #ffceb8;
     color: #620A7A;
     padding: 10px;
     text-align: center;
     font-family: "Helvetica";
   }
 form {
-    background-color: #0f4535;
+    background-color: #ffceb8;
     color: #333333;
     text-align: center;
 }
 textarea[name="user-input"] {
     text-align: center;
-    border: 7px solid #e2b2a4;
+    border: 7px solid #620A7A;
     font-family: "Helvetica";
 }
 
 footer {
-    background-color: #e2b2a4;
+    background-color: #ffceb8;
     color: #620A7A;
     padding: 20px;
     text-align: end;
     font-family: "Courier";
 }
 .uno {
-    background-color: lightgray;
-    border: 5px solid rebeccapurple;
+    background-color: #e4e2af;
+    border: 5px solid #620A7A;
   padding: 4px;
   margin: 0px 350px 10px;
   width: 300px;
@@ -34,8 +34,8 @@ footer {
   border-radius: 8px;
 }
 .dos {
-    background-color: lightgray;
-    border: 5px solid rebeccapurple;
+    background-color: #e4e2af;
+    border: 5px solid #620A7A;
   padding: 4px;
   margin: 10px 10px;
   width: 300px;
@@ -43,8 +43,9 @@ footer {
   border-radius: 8px;
 }
 #reset-button {
-    background-color: #dfdfa2; 
-    padding: 4px;
+    background-color: #620A7A;
+    color: #e4e2af;
+    padding: 10px;
     margin: 10px;
     font-family: "Tahoma";
 }
